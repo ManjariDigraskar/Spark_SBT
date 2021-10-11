@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prodWordCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prodWordCount_jar</output-path>
+    <root id="archive" name="prodWordCount.jar">
+      <element id="module-output" name="prodWordCount" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="prodWordCount" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.12.10/lib/scala-library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
